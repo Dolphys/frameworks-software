@@ -1,6 +1,6 @@
 # frameworks-software
-Nombre: Jose Adolfo Soto Vazquez
+## Nombre: Jose Adolfo Soto Vazquez
 
-Grupo: 3BMP
+## Grupo: 3BMP
 
-Materia: Emplea Frameworks para el desarrollo de software
+## Materia: Emplea Frameworks para el desarrollo de software
